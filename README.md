@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AIDD
 - 💞️ I’m looking to collaborate on AIDD
 - 📫 How to reach me  From github
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Him
   I am a junior undergraduate student majoring in pharmacy and I am interested in the field of AIDD.
 
 <!---

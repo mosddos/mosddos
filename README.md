@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AIDD
 - 💞️ I’m looking to collaborate on AIDD
 - 📫 How to reach me  From github
-  I am a junior undergraduate student majoring in pharmacy and I am interested in the field of AIDD.
+I am a junior undergraduate student majoring in pharmacy and I am interested in the field of AIDD.
 
 <!---
 mosddos/mosddos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
